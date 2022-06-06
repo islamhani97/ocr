@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "D:\\WorkShop\\Projects\\OCRDemo\\opencv\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\SDKs\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\WorkShop\\Projects\\OCRDemo\\opencv\\.cxx\\Debug\\1p5b4056\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\SDKs\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\WorkShop\\Projects\\OCRDemo\\opencv\\.cxx\\Debug\\1p5b4056\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared-Debug-x86_64": {
+      "artifactName": "opencv_jni_shared",
+      "buildCommandComponents": [
+        "C:\\SDKs\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\WorkShop\\Projects\\OCRDemo\\opencv\\.cxx\\Debug\\1p5b4056\\x86_64",
+        "opencv_jni_shared"
+      ],
+      "abi": "x86_64",
+      "output": "D:\\WorkShop\\Projects\\OCRDemo\\opencv\\.cxx\\Debug\\1p5b4056\\x86_64\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}
